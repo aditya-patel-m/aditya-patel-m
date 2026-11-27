@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Aditya Patel.M 👋
 
-<!--
-**aditya-patel-m/aditya-patel-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+I'm a Diploma ECE student interested in electronics, programming, robotics and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Interests
+
+- Embedded Systems
+- C Programming
+- Digital Electronics
+- Robotics and Automation
+- VLSI Design
+
+Currently Learning
+
+- C Programming
+- Microcontrollers
+- Embedded Systems
+- Verilog HDL
+
+My Goals
+
+- Build practical electronics projects.
+- Improve my programming skills.
+- Explore VLSI and semiconductor technology.
+- Pursue B.E. in Electronics & Communication Engineering.
+
+Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
+
+Learning Today. Building Tomorrow.
